@@ -19,25 +19,6 @@ time.sleep(2)
 pg.click(236, 98)
 pg.write(hastag)
 print()
-"""
-#webdeveloper
-#indianwear
-#indianfashiondiaries
-#indiandress
-#indiandresses
-#indianfashionawesome
-#indianfashiontime
-#indianfashionpallet
-#indianfashionhub
-#indianattire#indianfashion
-#indianwear
-#indianoutfit
-#indianfashionista
-#indianfashion2015
-#punjabifashion
-#punjabisuits
-#southindianfashion
-"""
 pg.PAUSE = 3.25
 pg.press('down')
 pg.PAUSE = 2.0
