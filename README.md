@@ -6,9 +6,10 @@ INSU is an Instagram bot that manually likes posts using tags, by controlling mo
 <br>
 
 <h1>Requirements</h1>
-1. <b>PyAutoGUI</b><br>
-2. <b>Pyfiglet</b><br>
-3. <b>Screen Size 1366 x 768</b><br>
+1. Python 3
+2. <b>PyAutoGUI</b><br>
+3. <b>Pyfiglet</b><br>
+4. <b>Screen Size 1366 x 768</b><br>
 <br>
 
 <h1>How to use</h1>
